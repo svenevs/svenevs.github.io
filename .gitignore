@@ -1,0 +1,14 @@
+# Jekyll specific ignores.
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Gem / bundle stuffs.
+# bundle config set path vendor/bundle
+vendor/
+.bundle
+Gemfile.lock
+
+# Misc
+*.swp

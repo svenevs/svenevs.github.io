@@ -1,0 +1,5 @@
+- name: elba
+  link: /elba
+  description: |
+    Monkeypatch the [`sphinx.ext.napoleon`](https://www.sphinx-doc.org/en/latest/usage/extensions/napoleon.html)
+    Numpy style to not need to duplicate type hints in the docs.
