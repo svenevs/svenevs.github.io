@@ -1,0 +1,7 @@
+baseurl: ""
+url: "https://svenevs.dev"
+gh_username: svenevs
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-redirect-from
